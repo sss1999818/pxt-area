@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-areaCalculator=github:lioujj1/pxt-area
+areaCalculator=github:sss1999818/pxt-area
 ```
